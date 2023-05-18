@@ -5,7 +5,7 @@ const bot = new Discord.Client();
 bot.on("ready", () => {
     console.log("Bot online");
 });
-bot.login("MTEwODYxNDM2MTk3NjY2ODI0Mg.GsEGRM.ZG0Gcr-MYDxdOvGbH_-pnXKQHwmeArAe0GuiPE");
+bot.login("");
 bot.on("message", message => {
 
 });
